@@ -106,7 +106,7 @@ Titanic-ML-Project/
 
 ## Author
 
-Varun
+Varun Vaibhav.S
 
 B.Tech CSE (AI & Data Analytics)
 
